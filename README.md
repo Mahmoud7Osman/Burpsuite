@@ -6,7 +6,7 @@
 
 > Download From [Here](https://portswigger.net/burp/releases#professional 'Burp Suite')
 
-> Watch How To Activate On Linux [Here](https://www.youtube.com/watch?v=fuU2VwinlX4)
+
 
 ## Linux
 - [1] - java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:PATH/loader.jar -noverify -jar PATH/burpsuite_pro_v2022.*.*.jar &
